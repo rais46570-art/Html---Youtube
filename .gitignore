@@ -1,20 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
 # Node
 node_modules/
 
-# Editor
+# VS Code
 .vscode/
-.idea/
 
 # Logs
 *.log
 
-# Build
-dist/
-build/
+# Thumbnails / build artifacts
+thumbnails/
 
-# System
-.DS_Store
-Thumbs.db
-
-# Env
+# Environment
 .env
